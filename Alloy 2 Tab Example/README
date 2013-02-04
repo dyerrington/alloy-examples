@@ -1,6 +1,6 @@
 This example demonstrates basic functionality based on the 2 tab Alloy template.  I created this example to better understand how to work with views and the tss style definitions.
 
-So far, my experiment with this file has been promising but I can't seem to get the windows within the views to be styled using the tsp resources :(.  Very impressed with how fast something like this can be built though.
+So far, my experiment with this file has been promising but I can't seem to get the windows within the views to be styled using the tss resources :(.  Very impressed with how fast something like this can be built though.
 
 
 ----------------------------------
