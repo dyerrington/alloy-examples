@@ -1,0 +1,7 @@
+<Alloy>
+	<Tab title="Tab 123" icon="KS_nav_ui.png" id="tab1">
+		<Window title="Tab 1 TEST" class="whiteBG" id="genericWindow1">
+			<Label id="genericLabel1" class="whiteBG">I am Window.. and this does not display?</Label>
+		</Window>
+	</Tab>
+</Alloy>
