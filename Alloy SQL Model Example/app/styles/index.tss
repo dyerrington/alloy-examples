@@ -1,0 +1,26 @@
+"Window": {
+	backgroundColor: "#fff"
+},
+"#navbutton1": {
+	text: 'next',
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	font: {
+		fontSize: 20,
+		fontFamily: 'Helvetica Neue'
+	},
+	textAlign: 'center'
+},
+"#genericWindow1": {
+	backgroundColor: "#fff"
+},
+"#genericLabel1": {
+	width: 200,
+	height: 200
+},
+".whiteBG": {
+	backgroundColor: "#fff",
+	width: 200,
+	height: 200
+}

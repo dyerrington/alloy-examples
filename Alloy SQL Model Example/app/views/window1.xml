@@ -1,0 +1,8 @@
+<Alloy>
+
+		<Window title="Tab 1 TEST" class="whiteBG" id="genericWindow1">
+			<Label id="genericLabel1" class="whiteBG">I am Window.. and this does not display?</Label>
+			<button id="navbutton1">
+		</Window>
+
+</Alloy>

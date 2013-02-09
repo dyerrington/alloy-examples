@@ -1,0 +1,5 @@
+<Alloy>
+	<TableViewRow onClick="viewDetails" onDblClick="deleteIcon">
+		<Label id="icon_id" text="{id}"/>
+	</TableViewRow>
+</Alloy>

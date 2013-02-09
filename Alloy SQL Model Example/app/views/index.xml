@@ -1,0 +1,9 @@
+<Alloy>
+	<Window>
+		<TableView id="table" dataCollection="icons" onClick="showId">
+	    	<Require src="icons"/>
+	    </TableView>
+	    <Button id="title" top="10" left="10" onClick="addIcon">Add Icon Record</Button>
+	    <TextArea borderWidth="1" borderColor="#000" borderRadius="5" top="75" left="10" width="150" height="auto" value="This example demonstrates the flow of event handling, the implimentation of a basic model / collection, and interaction with an sqlite database." />
+	</Window>
+</Alloy>
